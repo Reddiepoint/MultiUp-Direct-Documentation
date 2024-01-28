@@ -1,6 +1,6 @@
 # Introduction
 
-This wiki provides comprehensive help for using [MultiUp Direct](https://github.com/Reddiepoint/MultiUp-Direct).
+This documentation provides comprehensive help for using [MultiUp Direct](https://github.com/Reddiepoint/MultiUp-Direct).
 
 ## What is MultiUp Direct?
 
