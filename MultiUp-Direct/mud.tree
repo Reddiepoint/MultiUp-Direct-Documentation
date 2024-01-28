@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="mudw"
-                 name="MultiUp Direct Wiki"
+<instance-profile id="mud"
+                 name="MultiUp Direct"
                  start-page="Introduction.md">
 
     <toc-element topic="Introduction.md"/>
