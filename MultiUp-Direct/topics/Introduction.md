@@ -1,6 +1,7 @@
 # Introduction
 
 This documentation provides comprehensive help for using [MultiUp Direct](https://github.com/Reddiepoint/MultiUp-Direct).
+**It is a work in progress.**
 
 ## What is MultiUp Direct?
 
@@ -11,7 +12,7 @@ the remote upload of the content back to MultiUp, making it easier to mirror and
 ## Features
 
 * Convert bulk short and long links into direct links within seconds, with support for MultiUp projects.
-* Ability to re-check host validity.
+* Ability to recheck host validity.
 * Open and select specific hosts and links.
 * Built-in Debrid service support for [AllDebrid](https://alldebrid.com/) and [RealDebrid](https://real-debrid.com/).
 * Remote upload of content to MultiUp with data streaming (bypassing Debrid service restrictions).
