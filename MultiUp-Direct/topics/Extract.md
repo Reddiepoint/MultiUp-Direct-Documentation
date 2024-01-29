@@ -4,7 +4,6 @@ This tab relates to extracting direct links to hosts from MultiUp.
 Supports `/project/`, `/download/` and `/mirror/` short/long links.
 
 ## Instructions
-
 1. Paste your MultiUp links into the first box.
     - Link detection is quite robust and will work with any link that is valid on MultiUp
       (see [link detection](Tips-and-Tricks-for-Extraction.md#link-detection)).
