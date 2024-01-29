@@ -1,7 +1,7 @@
 # Extract
 
 This tab relates to extracting direct links to hosts from MultiUp.
-Supports `/project/`, `/download/` and `/mirror/` links.
+Supports `/project/`, `/download/` and `/mirror/` short/long links.
 
 ## Instructions
 
@@ -15,44 +15,18 @@ Supports `/project/`, `/download/` and `/mirror/` links.
     - Click the "Cancel now" button to cancel any remaining links. You may not see any immediate feedback, but this
       is normal, as MultiUp Direct waits for the links that have already been extracted, but no new links will be
       extracted.
-4. Select the links you want to use. You can do this by:
+4. Select the links you want. You can do this by:
     - Holding down CTRL to select individual links.
     - Clicking and holding SHIFT to select a range of links.
-5. Right-click on a link or selection of links to see more options, such as copying or opening the links in your
-   browser.
-6. Use the filter menu to narrow down your choices:
-    - "Unknown": These are the links that MultiUp could not check after verification.
-    - "Unchecked": These are the links that were not verified by MultiUp. (Links will only appear here if you check
-      the "Recheck link validity" box.)
-    - "Valid": These are the links that were verified by MultiUp.
+    - Right-click on a link or selection of links to see more options, such as copying or opening the links in your
+      browser.
+    
 
-[//]: # (3. Click on \"Generate links\" to get the direct links.\n\)
-
-[//]: # (   Click the \"Cancel now\" button to cancel any remaining links. You may not see any immediate feedback, \)
-
-[//]: # (   but this is normal, as MultiUp Direct waits for the links that have already been extracted, \)
-
-[//]: # (   but no new links will be extracted.\n\n\)
-
-[//]: # (4. Select the links you want to use. You can do this by:\n\t\)
-
-[//]: # (- Holding down CTRL to select individual links.\n\t\)
-
-[//]: # (- Clicking and holding SHIFT to select a range of links.\n\n\)
-
-[//]: # (5. Right-click on a link or selection of links to see more options, such as copying or opening the links in
-your browser.\n\n\)
-
-[//]: # (6. Use the filter menu to narrow down your choices:\n\t\)
-
-[//]: # (- \"Unknown\": These are the links that MultiUp could not check after verification.\n\t\)
-
-[//]: # (- \"Unchecked\": These are the links that were not verified by MultiUp. &#40;Links will only appear here if
-you \)
-
-[//]: # (  do not check the \"Recheck link validity\" box&#41;.\n\t\)
-
-[//]: # (- Hosts: You can choose which hosts you want to see links for. You can right-click on a host and select
-\"Select ____ links only\" to quickly filter out the rest.\n\n\)
-
-
+5. Use the filter menu to narrow down your choices:
+    - "Valid" and "Invalid": Self-explanatory.
+    - "Unchecked": These are the links that MultiUp does not report as having a validity. They can be checked by
+      choosing the "Recheck link validity" box.
+    - "Unknown": These are the links that MultiUp could not check. Links will only appear here if you check
+      the "Recheck link validity" box.
+    - Right-click on a host to quickly select only that host, and deselect all others.
+    - You can search for files using the search bar.
