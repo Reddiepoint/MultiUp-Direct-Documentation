@@ -11,5 +11,7 @@
         <toc-element topic="Tips-and-Tricks-for-Extraction.md"/>
     </toc-element>
     <toc-element topic="Debrid.md"/>
-    <toc-element topic="Upload.md"/>
+    <toc-element topic="Upload.md">
+        <toc-element topic="Tips-and-Tricks-for-Uploading.md"/>
+    </toc-element>
 </instance-profile>
