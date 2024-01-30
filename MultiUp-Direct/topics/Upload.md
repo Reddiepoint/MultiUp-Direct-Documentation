@@ -21,3 +21,4 @@ This tab relates to uploading files to MultiUp.
 
 5. Click on "Upload to MultiUp" to upload your files.
    - The MultiUp links will be shown in the bottom bar, with the project link first if uploading as a project.
+   - Note: If you enter an invalid link, the response from the website may be uploaded to MultiUp.
